@@ -1,0 +1,68 @@
+RULE 1: IF TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 56.25%
+Coverage (unclassified): 56.25%
+Recall (all): 90.00%
+Recall (unclassified): 90.00%
+Instances classified: 9
+
+RULE 2: IF Age=pre-presbyopic AND Astigmatism=no THEN ContactLens=soft
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 12.50%
+Recall (all): 66.67%
+Recall (unclassified): 66.67%
+Instances classified: 2
+
+RULE 3: IF Age=presbyopic AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 6.25%
+Coverage (unclassified): 6.25%
+Recall (all): 33.33%
+Recall (unclassified): 33.33%
+Instances classified: 1
+
+RULE 4: IF Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 18.75%
+Coverage (unclassified): 6.25%
+Recall (all): 100.00%
+Recall (unclassified): 33.33%
+Instances classified: 1
+
+RULE 5: IF Age=pre-presbyopic AND SpectaclePrescrip=hypermetrope AND Astigmatism=yes THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 6.25%
+Recall (all): 20.00%
+Recall (unclassified): 10.00%
+Instances classified: 1
+
+RULE 6: IF Age=young AND SpectaclePrescrip=hypermetrope AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 6.25%
+Coverage (unclassified): 6.25%
+Recall (all): 33.33%
+Recall (unclassified): 33.33%
+Instances classified: 1
+
+RULE 7: IF SpectaclePrescrip=myope AND Astigmatism=yes AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 6.25%
+Recall (all): 66.67%
+Recall (unclassified): 33.33%
+Instances classified: 1
+
+Accuracy: 100.00%
+Instances not classified: 0.00%
+Time: 0.04696345329284668
+Number of rules: 7
+Rules seen: 83

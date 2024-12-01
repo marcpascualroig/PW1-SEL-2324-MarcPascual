@@ -1,0 +1,1445 @@
+RULE 1: IF X1=0.62 AND X7=0.1 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.73%
+Coverage (unclassified): 1.73%
+Recall (all): 8.00%
+Recall (unclassified): 8.00%
+Instances classified: 4
+
+RULE 2: IF X1=0.62 AND X7=0.4 THEN Y1_buckets=(15.901, 18.373]
+Precision (all): 80.00%
+Precision (unclassified): 80.00%
+Coverage (all): 2.16%
+Coverage (unclassified): 2.16%
+Recall (all): 28.57%
+Recall (unclassified): 28.57%
+Instances classified: 5
+
+RULE 3: IF X1=0.62 AND X7=0.25 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.60%
+Coverage (unclassified): 2.60%
+Recall (all): 15.00%
+Recall (unclassified): 15.00%
+Instances classified: 6
+
+RULE 4: IF X1=0.64 AND X7=0.1 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.03%
+Coverage (unclassified): 3.03%
+Recall (all): 17.50%
+Recall (unclassified): 17.50%
+Instances classified: 7
+
+RULE 5: IF X1=0.64 AND X7=0.25 THEN Y1_buckets=(15.901, 18.373]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.46%
+Coverage (unclassified): 3.46%
+Recall (all): 57.14%
+Recall (unclassified): 57.14%
+Instances classified: 8
+
+RULE 6: IF X1=0.64 AND X7=0.0 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 7: IF X1=0.66 AND X7=0.1 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.90%
+Coverage (unclassified): 3.90%
+Recall (all): 18.00%
+Recall (unclassified): 18.00%
+Instances classified: 9
+
+RULE 8: IF X1=0.66 AND X7=0.4 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.16%
+Coverage (unclassified): 2.16%
+Recall (all): 12.50%
+Recall (unclassified): 12.50%
+Instances classified: 5
+
+RULE 9: IF X1=0.66 AND X7=0.25 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.30%
+Coverage (unclassified): 1.30%
+Recall (all): 6.00%
+Recall (unclassified): 6.00%
+Instances classified: 3
+
+RULE 10: IF X1=0.66 AND X7=0.0 THEN Y1_buckets=(5.973, 8.483]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 11: IF X1=0.76 AND X7=0.0 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 12: IF X1=0.71 AND X7=0.25 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.46%
+Coverage (unclassified): 3.46%
+Recall (all): 16.00%
+Recall (unclassified): 16.00%
+Instances classified: 8
+
+RULE 13: IF X1=0.71 AND X7=0.0 THEN Y1_buckets=(5.973, 8.483]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 14: IF X1=0.86 AND X7=0.4 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.73%
+Coverage (unclassified): 1.73%
+Recall (all): 19.05%
+Recall (unclassified): 19.05%
+Instances classified: 4
+
+RULE 15: IF X1=0.86 AND X7=0.25 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.16%
+Coverage (unclassified): 2.16%
+Recall (all): 25.00%
+Recall (unclassified): 25.00%
+Instances classified: 5
+
+RULE 16: IF X1=0.86 AND X7=0.0 THEN Y1_buckets=(15.901, 18.373]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 1.30%
+Coverage (unclassified): 1.30%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 3
+
+RULE 17: IF X1=0.98 AND X7=0.1 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.03%
+Coverage (unclassified): 3.03%
+Recall (all): 41.18%
+Recall (unclassified): 41.18%
+Instances classified: 7
+
+RULE 18: IF X1=0.98 AND X7=0.4 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.03%
+Coverage (unclassified): 3.03%
+Recall (all): 33.33%
+Recall (unclassified): 33.33%
+Instances classified: 7
+
+RULE 19: IF X1=0.98 AND X7=0.0 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 2.50%
+Recall (unclassified): 2.50%
+Instances classified: 1
+
+RULE 20: IF X1=0.69 AND X7=0.1 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.60%
+Coverage (unclassified): 2.60%
+Recall (all): 12.00%
+Recall (unclassified): 12.00%
+Instances classified: 6
+
+RULE 21: IF X1=0.69 AND X7=0.4 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.03%
+Coverage (unclassified): 3.03%
+Recall (all): 17.50%
+Recall (unclassified): 17.50%
+Instances classified: 7
+
+RULE 22: IF X1=0.69 AND X7=0.25 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.90%
+Coverage (unclassified): 3.90%
+Recall (all): 18.00%
+Recall (unclassified): 18.00%
+Instances classified: 9
+
+RULE 23: IF X1=0.69 AND X7=0.0 THEN Y1_buckets=(5.973, 8.483]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 100.00%
+Recall (unclassified): 100.00%
+Instances classified: 1
+
+RULE 24: IF X1=0.9 AND X7=0.0 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 25: IF X1=0.82 AND X7=0.0 THEN Y1_buckets=(15.901, 18.373]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 26: IF X1=0.79 AND X7=0.4 THEN Y1_buckets=(40.627, 43.1]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.03%
+Coverage (unclassified): 3.03%
+Recall (all): 100.00%
+Recall (unclassified): 100.00%
+Instances classified: 7
+
+RULE 27: IF X1=0.79 AND X7=0.25 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.73%
+Coverage (unclassified): 1.73%
+Recall (all): 57.14%
+Recall (unclassified): 57.14%
+Instances classified: 4
+
+RULE 28: IF X1=0.79 AND X7=0.0 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 10.00%
+Recall (unclassified): 10.00%
+Instances classified: 2
+
+RULE 29: IF X1=0.74 AND X7=0.1 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.03%
+Coverage (unclassified): 3.03%
+Recall (all): 50.00%
+Recall (unclassified): 50.00%
+Instances classified: 7
+
+RULE 30: IF X1=0.74 AND X7=0.4 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.90%
+Coverage (unclassified): 3.90%
+Recall (all): 22.50%
+Recall (unclassified): 22.50%
+Instances classified: 9
+
+RULE 31: IF X1=0.74 AND X7=0.25 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.33%
+Coverage (unclassified): 4.33%
+Recall (all): 20.00%
+Recall (unclassified): 20.00%
+Instances classified: 10
+
+RULE 32: IF X1=0.74 AND X7=0.0 THEN Y1_buckets=(5.973, 8.483]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 33: IF X1=0.62 AND X6=2 AND X7=0.0 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 34: IF X1=0.62 AND X6=4 AND X7=0.0 THEN Y1_buckets=(5.973, 8.483]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 35: IF X1=0.62 AND X6=5 AND X7=0.0 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 36: IF X1=0.86 AND X6=5 AND X8=5 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 37: IF X1=0.86 AND X6=3 AND X7=0.1 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 11.11%
+Recall (unclassified): 11.11%
+Instances classified: 2
+
+RULE 38: IF X1=0.86 AND X7=0.1 AND X8=3 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 1.30%
+Coverage (unclassified): 0.87%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 2
+
+RULE 39: IF X1=0.86 AND X7=0.1 AND X8=4 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 40: IF X1=0.86 AND X7=0.1 AND X8=2 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 11.11%
+Recall (unclassified): 11.11%
+Instances classified: 2
+
+RULE 41: IF X1=0.64 AND X6=5 AND X8=5 THEN Y1_buckets=(15.901, 18.373]
+Precision (all): 50.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 7.14%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 42: IF X1=0.64 AND X6=5 AND X8=4 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 43: IF X1=0.64 AND X6=3 AND X7=0.4 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 12.50%
+Recall (unclassified): 12.50%
+Instances classified: 2
+
+RULE 44: IF X1=0.64 AND X7=0.4 AND X8=3 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.43%
+Recall (all): 25.00%
+Recall (unclassified): 12.50%
+Instances classified: 1
+
+RULE 45: IF X1=0.64 AND X7=0.4 AND X8=5 THEN Y1_buckets=(15.901, 18.373]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 7.14%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 46: IF X1=0.64 AND X7=0.4 AND X8=4 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 12.50%
+Recall (unclassified): 12.50%
+Instances classified: 1
+
+RULE 47: IF X1=0.64 AND X7=0.4 AND X8=1 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 48: IF X1=0.64 AND X7=0.4 AND X8=2 THEN Y1_buckets=(18.373, 20.846]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 25.00%
+Recall (unclassified): 25.00%
+Instances classified: 2
+
+RULE 49: IF X1=0.76 AND X6=2 AND X7=0.1 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 9.52%
+Recall (unclassified): 9.52%
+Instances classified: 2
+
+RULE 50: IF X1=0.76 AND X6=2 AND X7=0.25 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 14.29%
+Recall (unclassified): 14.29%
+Instances classified: 2
+
+RULE 51: IF X1=0.76 AND X6=2 AND X8=5 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 52: IF X1=0.76 AND X6=4 AND X7=0.1 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 9.52%
+Recall (unclassified): 9.52%
+Instances classified: 2
+
+RULE 53: IF X1=0.76 AND X6=5 AND X7=0.4 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 14.29%
+Recall (unclassified): 14.29%
+Instances classified: 1
+
+RULE 54: IF X1=0.76 AND X6=5 AND X7=0.25 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 55: IF X1=0.76 AND X6=3 AND X7=0.4 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 14.29%
+Recall (unclassified): 14.29%
+Instances classified: 1
+
+RULE 56: IF X1=0.76 AND X6=3 AND X7=0.25 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 57: IF X1=0.76 AND X7=0.1 AND X8=4 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 4.76%
+Recall (unclassified): 4.76%
+Instances classified: 1
+
+RULE 58: IF X1=0.76 AND X7=0.1 AND X8=1 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 4.76%
+Recall (unclassified): 4.76%
+Instances classified: 1
+
+RULE 59: IF X1=0.76 AND X7=0.1 AND X8=2 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 9.52%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 60: IF X1=0.76 AND X7=0.4 AND X8=3 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 61: IF X1=0.76 AND X7=0.4 AND X8=5 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 62: IF X1=0.76 AND X7=0.25 AND X8=5 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 14.29%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 63: IF X1=0.76 AND X7=0.25 AND X8=4 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 64: IF X1=0.76 AND X7=0.25 AND X8=1 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 7.14%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 65: IF X1=0.71 AND X6=2 AND X7=0.1 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 66: IF X1=0.71 AND X6=4 AND X7=0.1 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 14.29%
+Recall (unclassified): 14.29%
+Instances classified: 2
+
+RULE 67: IF X1=0.71 AND X6=4 AND X8=1 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 68: IF X1=0.71 AND X6=5 AND X7=0.4 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 69: IF X1=0.71 AND X6=5 AND X8=5 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 70: IF X1=0.71 AND X6=3 AND X7=0.1 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 14.29%
+Recall (unclassified): 14.29%
+Instances classified: 2
+
+RULE 71: IF X1=0.71 AND X6=3 AND X8=5 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 72: IF X1=0.71 AND X6=3 AND X8=2 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 73: IF X1=0.71 AND X7=0.1 AND X8=3 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 14.29%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 74: IF X1=0.71 AND X7=0.1 AND X8=4 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 75: IF X1=0.71 AND X7=0.1 AND X8=1 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 7.14%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 76: IF X1=0.71 AND X7=0.1 AND X8=2 THEN Y1_buckets=(8.483, 10.955]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 7.14%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 77: IF X1=0.71 AND X7=0.4 AND X8=3 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 5.00%
+Recall (unclassified): 5.00%
+Instances classified: 2
+
+RULE 78: IF X1=0.71 AND X7=0.4 AND X8=5 THEN Y1_buckets=(10.955, 13.428]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 2.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 79: IF X1=0.71 AND X7=0.4 AND X8=4 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 5.00%
+Recall (unclassified): 5.00%
+Instances classified: 2
+
+RULE 80: IF X1=0.71 AND X7=0.4 AND X8=1 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 81: IF X1=0.71 AND X7=0.4 AND X8=2 THEN Y1_buckets=(13.428, 15.901]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 82: IF X1=0.79 AND X6=4 AND X7=0.1 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 2
+
+RULE 83: IF X1=0.79 AND X6=3 AND X7=0.1 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 84: IF X1=0.79 AND X7=0.1 AND X8=3 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 50.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 85: IF X1=0.9 AND X6=2 AND X7=0.25 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 86: IF X1=0.9 AND X6=4 AND X7=0.25 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 4.76%
+Recall (unclassified): 4.76%
+Instances classified: 1
+
+RULE 87: IF X1=0.9 AND X6=3 AND X7=0.1 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 88: IF X1=0.9 AND X6=3 AND X8=4 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 89: IF X1=0.9 AND X7=0.1 AND X8=4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 66.67%
+Precision (unclassified): 100.00%
+Coverage (all): 1.30%
+Coverage (unclassified): 0.87%
+Recall (all): 10.00%
+Recall (unclassified): 10.00%
+Instances classified: 2
+
+RULE 90: IF X1=0.9 AND X7=0.4 AND X8=3 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 91: IF X1=0.9 AND X7=0.4 AND X8=5 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 40.00%
+Recall (unclassified): 40.00%
+Instances classified: 2
+
+RULE 92: IF X1=0.9 AND X7=0.4 AND X8=4 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 2
+
+RULE 93: IF X1=0.9 AND X7=0.4 AND X8=1 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 94: IF X1=0.9 AND X7=0.4 AND X8=2 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 7.14%
+Recall (unclassified): 7.14%
+Instances classified: 1
+
+RULE 95: IF X1=0.9 AND X7=0.25 AND X8=3 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 96: IF X1=0.9 AND X7=0.25 AND X8=5 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 4.76%
+Recall (unclassified): 4.76%
+Instances classified: 1
+
+RULE 97: IF X1=0.98 AND X6=4 AND X7=0.25 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 98: IF X1=0.98 AND X6=5 AND X7=0.25 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 5.00%
+Recall (unclassified): 5.00%
+Instances classified: 1
+
+RULE 99: IF X1=0.98 AND X7=0.25 AND X8=1 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 100: IF X1=0.82 AND X6=2 AND X7=0.1 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 101: IF X1=0.82 AND X6=2 AND X7=0.4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.43%
+Recall (all): 5.00%
+Recall (unclassified): 5.00%
+Instances classified: 1
+
+RULE 102: IF X1=0.82 AND X6=2 AND X7=0.25 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 5.88%
+Recall (unclassified): 5.88%
+Instances classified: 2
+
+RULE 103: IF X1=0.82 AND X6=4 AND X7=0.1 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 66.67%
+Precision (unclassified): 66.67%
+Coverage (all): 1.30%
+Coverage (unclassified): 1.30%
+Recall (all): 11.76%
+Recall (unclassified): 11.76%
+Instances classified: 3
+
+RULE 104: IF X1=0.82 AND X6=4 AND X7=0.4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.30%
+Coverage (unclassified): 1.30%
+Recall (all): 15.00%
+Recall (unclassified): 15.00%
+Instances classified: 3
+
+RULE 105: IF X1=0.82 AND X6=4 AND X8=5 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 106: IF X1=0.82 AND X6=4 AND X8=4 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 50.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 5.88%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 107: IF X1=0.82 AND X6=4 AND X8=2 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 50.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 5.88%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 108: IF X1=0.82 AND X6=5 AND X8=5 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 5.88%
+Recall (unclassified): 5.88%
+Instances classified: 2
+
+RULE 109: IF X1=0.82 AND X6=3 AND X7=0.1 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 5.88%
+Recall (unclassified): 5.88%
+Instances classified: 2
+
+RULE 110: IF X1=0.82 AND X6=3 AND X7=0.4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.87%
+Recall (all): 5.00%
+Recall (unclassified): 5.00%
+Instances classified: 2
+
+RULE 111: IF X1=0.82 AND X7=0.1 AND X8=3 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 112: IF X1=0.82 AND X7=0.4 AND X8=3 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 113: IF X1=0.82 AND X7=0.4 AND X8=4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 50.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.87%
+Coverage (unclassified): 0.00%
+Recall (all): 5.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 114: IF X1=0.82 AND X7=0.4 AND X8=1 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 5.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 115: IF X1=0.82 AND X7=0.25 AND X8=3 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 5.88%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 116: IF X1=0.82 AND X7=0.25 AND X8=5 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 117: IF X1=0.82 AND X7=0.25 AND X8=1 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.00%
+Recall (all): 11.11%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 118: IF X1=0.86 AND X6=2 AND X7=0.1 AND X8=5 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 119: IF X1=0.86 AND X6=5 AND X7=0.1 AND X8=1 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 120: IF X1=0.86 AND X6=4 AND X7=0.1 AND X8=5 THEN Y1_buckets=(23.319, 25.791]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 121: IF X1=0.79 AND X6=2 AND X7=0.1 AND X8=2 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 122: IF X1=0.79 AND X6=2 AND X7=0.1 AND X8=1 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 123: IF X1=0.79 AND X6=5 AND X7=0.1 AND X8=5 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 124: IF X1=0.79 AND X6=5 AND X7=0.1 AND X8=1 THEN Y1_buckets=(35.682, 38.155]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 125: IF X1=0.76 AND X6=2 AND X7=0.4 AND X8=2 THEN Y1_buckets=(40.627, 43.1]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 126: IF X1=0.76 AND X6=2 AND X7=0.4 AND X8=4 THEN Y1_buckets=(40.627, 43.1]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 127: IF X1=0.76 AND X6=2 AND X7=0.4 AND X8=1 THEN Y1_buckets=(40.627, 43.1]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 128: IF X1=0.76 AND X6=5 AND X7=0.1 AND X8=3 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 129: IF X1=0.76 AND X6=5 AND X7=0.1 AND X8=5 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 130: IF X1=0.76 AND X6=4 AND X7=0.4 AND X8=4 THEN Y1_buckets=(38.155, 40.627]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 131: IF X1=0.76 AND X6=4 AND X7=0.4 AND X8=1 THEN Y1_buckets=(40.627, 43.1]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 132: IF X1=0.76 AND X6=4 AND X7=0.25 AND X8=3 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 133: IF X1=0.76 AND X6=3 AND X7=0.1 AND X8=3 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 134: IF X1=0.76 AND X6=3 AND X7=0.1 AND X8=5 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 135: IF X1=0.82 AND X6=5 AND X7=0.1 AND X8=2 THEN Y1_buckets=(20.846, 23.319]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 136: IF X1=0.82 AND X6=5 AND X7=0.1 AND X8=1 THEN Y1_buckets=(20.846, 23.319]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 137: IF X1=0.82 AND X6=5 AND X7=0.4 AND X8=2 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 138: IF X1=0.82 AND X6=5 AND X7=0.25 AND X8=4 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 139: IF X1=0.82 AND X6=3 AND X7=0.25 AND X8=2 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 140: IF X1=0.98 AND X6=2 AND X7=0.25 AND X8=3 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 141: IF X1=0.98 AND X6=2 AND X7=0.25 AND X8=4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 142: IF X1=0.98 AND X6=3 AND X7=0.25 AND X8=3 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 143: IF X1=0.98 AND X6=3 AND X7=0.25 AND X8=2 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 144: IF X1=0.98 AND X6=3 AND X7=0.25 AND X8=4 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 145: IF X1=0.98 AND X6=3 AND X7=0.25 AND X8=5 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 146: IF X1=0.9 AND X6=2 AND X7=0.1 AND X8=3 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 147: IF X1=0.9 AND X6=2 AND X7=0.1 AND X8=2 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 148: IF X1=0.9 AND X6=2 AND X7=0.1 AND X8=5 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 149: IF X1=0.9 AND X6=2 AND X7=0.1 AND X8=1 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 150: IF X1=0.9 AND X6=5 AND X7=0.1 AND X8=3 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 151: IF X1=0.9 AND X6=5 AND X7=0.1 AND X8=2 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 152: IF X1=0.9 AND X6=5 AND X7=0.1 AND X8=5 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 153: IF X1=0.9 AND X6=5 AND X7=0.1 AND X8=1 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 154: IF X1=0.9 AND X6=5 AND X7=0.25 AND X8=2 THEN Y1_buckets=(30.737, 33.209]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 155: IF X1=0.9 AND X6=5 AND X7=0.25 AND X8=4 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 156: IF X1=0.9 AND X6=4 AND X7=0.1 AND X8=3 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 157: IF X1=0.9 AND X6=4 AND X7=0.1 AND X8=2 THEN Y1_buckets=(28.264, 30.737]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 158: IF X1=0.9 AND X6=4 AND X7=0.1 AND X8=5 THEN Y1_buckets=(25.791, 28.264]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 159: IF X1=0.9 AND X6=3 AND X7=0.25 AND X8=2 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 160: IF X1=0.9 AND X6=3 AND X7=0.25 AND X8=1 THEN Y1_buckets=(33.209, 35.682]
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+Accuracy: 89.45%
+Instances not classified: 13.85%
+Time: 1.3496546745300293
+Number of rules: 0
+Rules seen: 0

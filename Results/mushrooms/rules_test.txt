@@ -1,0 +1,644 @@
+RULE 1: IF cap-shape=s THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.37%
+Coverage (unclassified): 0.37%
+Recall (all): 0.71%
+Recall (unclassified): 0.71%
+Instances classified: 9
+
+RULE 2: IF cap-shape=c THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.09%
+Recall (unclassified): 0.09%
+Instances classified: 1
+
+RULE 3: IF cap-surface=g THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.08%
+Coverage (unclassified): 0.08%
+Recall (all): 0.17%
+Recall (unclassified): 0.17%
+Instances classified: 2
+
+RULE 4: IF cap-color=u THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.21%
+Recall (all): 0.39%
+Recall (unclassified): 0.39%
+Instances classified: 5
+
+RULE 5: IF cap-color=r THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.12%
+Coverage (unclassified): 0.12%
+Recall (all): 0.24%
+Recall (unclassified): 0.24%
+Instances classified: 3
+
+RULE 6: IF odor=f THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 25.18%
+Coverage (unclassified): 25.18%
+Recall (all): 52.48%
+Recall (unclassified): 52.48%
+Instances classified: 614
+
+RULE 7: IF odor=c THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.63%
+Coverage (unclassified): 2.63%
+Recall (all): 5.47%
+Recall (unclassified): 5.47%
+Instances classified: 64
+
+RULE 8: IF odor=s THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 6.56%
+Coverage (unclassified): 6.56%
+Recall (all): 13.68%
+Recall (unclassified): 13.68%
+Instances classified: 160
+
+RULE 9: IF odor=y THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 7.01%
+Coverage (unclassified): 7.01%
+Recall (all): 14.62%
+Recall (unclassified): 14.62%
+Instances classified: 171
+
+RULE 10: IF odor=l THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.68%
+Coverage (unclassified): 4.68%
+Recall (all): 8.99%
+Recall (unclassified): 8.99%
+Instances classified: 114
+
+RULE 11: IF odor=a THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.92%
+Coverage (unclassified): 4.92%
+Recall (all): 9.46%
+Recall (unclassified): 9.46%
+Instances classified: 120
+
+RULE 12: IF odor=p THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.98%
+Coverage (unclassified): 3.98%
+Recall (all): 8.29%
+Recall (unclassified): 8.29%
+Instances classified: 97
+
+RULE 13: IF odor=m THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.70%
+Coverage (unclassified): 0.70%
+Recall (all): 1.45%
+Recall (unclassified): 1.45%
+Instances classified: 17
+
+RULE 14: IF gill-color=o THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.82%
+Coverage (unclassified): 0.82%
+Recall (all): 1.58%
+Recall (unclassified): 1.58%
+Instances classified: 20
+
+RULE 15: IF gill-color=e THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.03%
+Coverage (unclassified): 1.03%
+Recall (all): 1.97%
+Recall (unclassified): 1.97%
+Instances classified: 25
+
+RULE 16: IF gill-color=r THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.45%
+Coverage (unclassified): 0.45%
+Recall (all): 0.94%
+Recall (unclassified): 0.94%
+Instances classified: 11
+
+RULE 17: IF stalk-color-above-ring=g THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 7.83%
+Coverage (unclassified): 7.83%
+Recall (all): 15.06%
+Recall (unclassified): 15.06%
+Instances classified: 191
+
+RULE 18: IF stalk-color-above-ring=o THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.26%
+Coverage (unclassified): 1.44%
+Recall (all): 4.34%
+Recall (unclassified): 2.76%
+Instances classified: 35
+
+RULE 19: IF stalk-color-above-ring=e THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.94%
+Coverage (unclassified): 0.45%
+Recall (all): 1.81%
+Recall (unclassified): 0.87%
+Instances classified: 11
+
+RULE 20: IF stalk-color-above-ring=y THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.16%
+Coverage (unclassified): 0.16%
+Recall (all): 0.34%
+Recall (unclassified): 0.34%
+Instances classified: 4
+
+RULE 21: IF stalk-color-below-ring=g THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 7.34%
+Coverage (unclassified): 4.80%
+Recall (all): 14.12%
+Recall (unclassified): 9.23%
+Instances classified: 117
+
+RULE 22: IF stalk-color-below-ring=e THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.94%
+Coverage (unclassified): 0.25%
+Recall (all): 1.81%
+Recall (unclassified): 0.47%
+Instances classified: 6
+
+RULE 23: IF stalk-color-below-ring=y THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.33%
+Coverage (unclassified): 0.16%
+Recall (all): 0.68%
+Recall (unclassified): 0.34%
+Instances classified: 4
+
+RULE 24: IF ring-type=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.45%
+Coverage (unclassified): 0.12%
+Recall (all): 0.87%
+Recall (unclassified): 0.24%
+Instances classified: 3
+
+RULE 25: IF spore-print-color=r THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.23%
+Coverage (unclassified): 0.78%
+Recall (all): 2.56%
+Recall (unclassified): 1.62%
+Instances classified: 19
+
+RULE 26: IF population=n THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.84%
+Coverage (unclassified): 1.97%
+Recall (all): 9.31%
+Recall (unclassified): 3.79%
+Instances classified: 48
+
+RULE 27: IF population=a THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 5.25%
+Coverage (unclassified): 5.25%
+Recall (all): 10.09%
+Recall (unclassified): 10.09%
+Instances classified: 128
+
+RULE 28: IF habitat=w THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.17%
+Coverage (unclassified): 0.45%
+Recall (all): 4.18%
+Recall (unclassified): 0.87%
+Instances classified: 11
+
+RULE 29: IF cap-shape=f AND gill-color=u THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.34%
+Coverage (unclassified): 1.03%
+Recall (all): 4.50%
+Recall (unclassified): 1.97%
+Instances classified: 25
+
+RULE 30: IF cap-shape=f AND stalk-surface-above-ring=k THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 11.94%
+Coverage (unclassified): 0.08%
+Recall (all): 24.87%
+Recall (unclassified): 0.17%
+Instances classified: 2
+
+RULE 31: IF cap-shape=k AND cap-color=g THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.53%
+Coverage (unclassified): 0.25%
+Recall (all): 1.03%
+Recall (unclassified): 0.47%
+Instances classified: 6
+
+RULE 32: IF cap-shape=k AND gill-color=g THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.04%
+Recall (all): 0.39%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 33: IF cap-shape=k AND gill-color=p THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.41%
+Coverage (unclassified): 0.04%
+Recall (all): 0.79%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 34: IF cap-shape=k AND stalk-surface-above-ring=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.16%
+Coverage (unclassified): 0.16%
+Recall (all): 0.32%
+Recall (unclassified): 0.32%
+Instances classified: 4
+
+RULE 35: IF cap-shape=k AND stalk-surface-below-ring=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.08%
+Coverage (unclassified): 0.04%
+Recall (all): 0.16%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 36: IF cap-shape=k AND stalk-color-above-ring=n THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.08%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 37: IF cap-shape=k AND ring-number=t THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.72%
+Coverage (unclassified): 0.12%
+Recall (all): 3.31%
+Recall (unclassified): 0.24%
+Instances classified: 3
+
+RULE 38: IF cap-shape=x AND stalk-surface-above-ring=y THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.08%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 39: IF cap-shape=x AND ring-number=t THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.42%
+Coverage (unclassified): 1.07%
+Recall (all): 4.65%
+Recall (unclassified): 2.05%
+Instances classified: 26
+
+RULE 40: IF cap-shape=b AND cap-color=g THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.45%
+Coverage (unclassified): 0.16%
+Recall (all): 0.87%
+Recall (unclassified): 0.32%
+Instances classified: 4
+
+RULE 41: IF cap-shape=b AND gill-size=n THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.04%
+Recall (all): 0.51%
+Recall (unclassified): 0.09%
+Instances classified: 1
+
+RULE 42: IF cap-shape=b AND gill-color=p THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.37%
+Coverage (unclassified): 0.12%
+Recall (all): 0.71%
+Recall (unclassified): 0.24%
+Instances classified: 3
+
+RULE 43: IF cap-shape=b AND stalk-surface-above-ring=y THEN class=e
+Precision (all): 33.33%
+Precision (unclassified): 100.00%
+Coverage (all): 0.12%
+Coverage (unclassified): 0.04%
+Recall (all): 0.08%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 44: IF cap-shape=b AND stalk-surface-below-ring=k THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.49%
+Coverage (unclassified): 0.00%
+Recall (all): 0.95%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 45: IF cap-shape=b AND population=s THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.09%
+Coverage (unclassified): 0.08%
+Recall (all): 4.02%
+Recall (unclassified): 0.16%
+Instances classified: 2
+
+RULE 46: IF cap-surface=f AND cap-color=e THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.86%
+Coverage (unclassified): 1.19%
+Recall (all): 7.41%
+Recall (unclassified): 2.29%
+Instances classified: 29
+
+RULE 47: IF cap-surface=f AND cap-color=c THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.08%
+Coverage (unclassified): 0.04%
+Recall (all): 0.16%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 48: IF cap-surface=f AND bruises%3F=t THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 11.77%
+Coverage (unclassified): 2.91%
+Recall (all): 22.63%
+Recall (unclassified): 5.60%
+Instances classified: 71
+
+RULE 49: IF cap-surface=f AND gill-color=k THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.56%
+Coverage (unclassified): 0.78%
+Recall (all): 3.00%
+Recall (unclassified): 1.50%
+Instances classified: 19
+
+RULE 50: IF cap-surface=f AND stalk-shape=t THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 17.02%
+Coverage (unclassified): 1.80%
+Recall (all): 32.73%
+Recall (unclassified): 3.47%
+Instances classified: 44
+
+RULE 51: IF cap-surface=f AND stalk-root=e THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 6.64%
+Coverage (unclassified): 0.82%
+Recall (all): 12.78%
+Recall (unclassified): 1.58%
+Instances classified: 20
+
+RULE 52: IF cap-surface=f AND stalk-surface-above-ring=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.63%
+Coverage (unclassified): 0.08%
+Recall (all): 5.05%
+Recall (unclassified): 0.16%
+Instances classified: 2
+
+RULE 53: IF cap-surface=f AND stalk-surface-below-ring=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 2.79%
+Coverage (unclassified): 0.00%
+Recall (all): 5.36%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 54: IF cap-surface=f AND stalk-surface-below-ring=y THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.16%
+Coverage (unclassified): 0.04%
+Recall (all): 0.34%
+Recall (unclassified): 0.09%
+Instances classified: 1
+
+RULE 55: IF cap-surface=f AND habitat=l THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.00%
+Recall (all): 0.47%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 56: IF cap-surface=s AND cap-color=c THEN class=e
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 57: IF cap-surface=s AND stalk-surface-above-ring=y THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.12%
+Coverage (unclassified): 0.04%
+Recall (all): 0.24%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 58: IF cap-surface=s AND population=y THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.04%
+Recall (all): 0.39%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 59: IF cap-surface=y AND gill-color=u THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.91%
+Coverage (unclassified): 0.62%
+Recall (all): 5.60%
+Recall (unclassified): 1.18%
+Instances classified: 15
+
+RULE 60: IF cap-surface=y AND stalk-surface-above-ring=k THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 13.21%
+Coverage (unclassified): 0.08%
+Recall (all): 27.52%
+Recall (unclassified): 0.17%
+Instances classified: 2
+
+RULE 61: IF cap-surface=y AND stalk-surface-above-ring=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.16%
+Coverage (unclassified): 0.12%
+Recall (all): 0.32%
+Recall (unclassified): 0.24%
+Instances classified: 3
+
+RULE 62: IF cap-surface=y AND stalk-surface-below-ring=f THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.66%
+Coverage (unclassified): 0.08%
+Recall (all): 1.26%
+Recall (unclassified): 0.16%
+Instances classified: 2
+
+RULE 63: IF cap-color=g AND odor=n THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 12.92%
+Coverage (unclassified): 1.97%
+Recall (all): 24.84%
+Recall (unclassified): 3.79%
+Instances classified: 48
+
+RULE 64: IF cap-color=e AND bruises%3F=t THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 7.34%
+Coverage (unclassified): 0.82%
+Recall (all): 14.12%
+Recall (unclassified): 1.58%
+Instances classified: 20
+
+RULE 65: IF cap-color=w AND ring-type=e THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.20%
+Coverage (unclassified): 0.86%
+Recall (all): 6.15%
+Recall (unclassified): 1.66%
+Instances classified: 21
+
+RULE 66: IF cap-color=w AND population=c THEN class=p
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.12%
+Coverage (unclassified): 0.00%
+Recall (all): 0.26%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 67: IF cap-color=n AND gill-spacing=w THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.53%
+Coverage (unclassified): 0.66%
+Recall (all): 6.78%
+Recall (unclassified): 1.26%
+Instances classified: 16
+
+RULE 68: IF cap-color=n AND stalk-root=b THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 8.24%
+Coverage (unclassified): 1.11%
+Recall (all): 15.85%
+Recall (unclassified): 2.13%
+Instances classified: 27
+
+RULE 69: IF cap-color=p AND spore-print-color=w THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.62%
+Coverage (unclassified): 0.04%
+Recall (all): 1.18%
+Recall (unclassified): 0.08%
+Instances classified: 1
+
+RULE 70: IF cap-color=c AND bruises%3F=t THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.08%
+Coverage (unclassified): 0.00%
+Recall (all): 0.16%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 71: IF cap-color=c AND odor=n THEN class=e
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.33%
+Coverage (unclassified): 0.08%
+Recall (all): 0.63%
+Recall (unclassified): 0.16%
+Instances classified: 2
+
+Accuracy: 100.00%
+Instances not classified: 0.00%
+Time: 0.21053647994995117
+Number of rules: 0
+Rules seen: 0

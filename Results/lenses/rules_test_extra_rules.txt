@@ -1,0 +1,410 @@
+RULE 1: IF TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 37.50%
+Recall (all): 60.00%
+Recall (unclassified): 60.00%
+Instances classified: 3
+
+RULE 2: IF Age=pre-presbyopic AND Astigmatism=no THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 3: IF Age=pre-presbyopic AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 0.00%
+Recall (all): 40.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 4: IF Age=presbyopic AND SpectaclePrescrip=hypermetrope THEN ContactLens=none
+Precision (all): 50.00%
+Precision (unclassified): 50.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 25.00%
+Recall (all): 20.00%
+Recall (unclassified): 20.00%
+Instances classified: 2
+
+RULE 5: IF Age=presbyopic AND Astigmatism=no THEN ContactLens=none
+Precision (all): 66.67%
+Precision (unclassified): 100.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 12.50%
+Recall (all): 40.00%
+Recall (unclassified): 20.00%
+Instances classified: 1
+
+RULE 6: IF Age=presbyopic AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 7: IF Age=presbyopic AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 8: IF Age=young AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 9: IF SpectaclePrescrip=myope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 0.00%
+Recall (all): 40.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 10: IF SpectaclePrescrip=hypermetrope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 11: IF Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 66.67%
+Precision (unclassified): 100.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 12.50%
+Recall (all): 100.00%
+Recall (unclassified): 50.00%
+Instances classified: 1
+
+RULE 12: IF Astigmatism=no AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 0.00%
+Recall (all): 60.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 13: IF Astigmatism=yes AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 14: IF Age=pre-presbyopic AND SpectaclePrescrip=hypermetrope AND Astigmatism=yes THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 15: IF Age=pre-presbyopic AND SpectaclePrescrip=hypermetrope AND Astigmatism=no THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 16: IF Age=pre-presbyopic AND SpectaclePrescrip=hypermetrope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 17: IF Age=pre-presbyopic AND SpectaclePrescrip=myope AND Astigmatism=no THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 18: IF Age=pre-presbyopic AND SpectaclePrescrip=myope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 19: IF Age=pre-presbyopic AND Astigmatism=yes AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 20: IF Age=pre-presbyopic AND Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 21: IF Age=presbyopic AND SpectaclePrescrip=hypermetrope AND Astigmatism=yes THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 22: IF Age=presbyopic AND SpectaclePrescrip=hypermetrope AND Astigmatism=no THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 23: IF Age=presbyopic AND SpectaclePrescrip=hypermetrope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 24: IF Age=presbyopic AND SpectaclePrescrip=myope AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 25: IF Age=presbyopic AND SpectaclePrescrip=myope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 26: IF Age=presbyopic AND Astigmatism=yes AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 27: IF Age=presbyopic AND Astigmatism=yes AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 28: IF Age=presbyopic AND Astigmatism=no AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 29: IF Age=young AND SpectaclePrescrip=hypermetrope AND Astigmatism=no THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 30: IF Age=young AND SpectaclePrescrip=hypermetrope AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 31: IF Age=young AND SpectaclePrescrip=hypermetrope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 32: IF Age=young AND SpectaclePrescrip=myope AND Astigmatism=yes THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 12.50%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 1
+
+RULE 33: IF Age=young AND SpectaclePrescrip=myope AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 34: IF Age=young AND SpectaclePrescrip=myope AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 35: IF Age=young AND Astigmatism=yes AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 100.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 36: IF Age=young AND Astigmatism=yes AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 37: IF Age=young AND Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 50.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 38: IF Age=young AND Astigmatism=no AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 39: IF SpectaclePrescrip=hypermetrope AND Astigmatism=yes AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 40: IF SpectaclePrescrip=hypermetrope AND Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 0.00%
+Recall (all): 100.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 41: IF SpectaclePrescrip=hypermetrope AND Astigmatism=no AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 20.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 42: IF SpectaclePrescrip=myope AND Astigmatism=yes AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 100.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 43: IF SpectaclePrescrip=myope AND Astigmatism=yes AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 44: IF SpectaclePrescrip=myope AND Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 45: IF SpectaclePrescrip=myope AND Astigmatism=no AND TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 0.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 0.00%
+Recall (all): 40.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+Accuracy: 75.00%
+Instances not classified: 0.00%
+Time: 0.031248807907104492
+Number of rules: 0
+Rules seen: 0

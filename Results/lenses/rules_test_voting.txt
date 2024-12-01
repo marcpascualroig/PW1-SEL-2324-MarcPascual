@@ -1,0 +1,68 @@
+RULE 1: IF TearProdRate=reduced THEN ContactLens=none
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 37.50%
+Recall (all): 60.00%
+Recall (unclassified): 60.00%
+Instances classified: 3
+
+RULE 2: IF Age=pre-presbyopic AND Astigmatism=no THEN ContactLens=soft
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 25.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 3: IF Age=presbyopic AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 37.50%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 3
+
+RULE 4: IF Astigmatism=no AND TearProdRate=normal THEN ContactLens=soft
+Precision (all): 66.67%
+Precision (unclassified): 100.00%
+Coverage (all): 37.50%
+Coverage (unclassified): 12.50%
+Recall (all): 100.00%
+Recall (unclassified): 50.00%
+Instances classified: 1
+
+RULE 5: IF Age=pre-presbyopic AND SpectaclePrescrip=hypermetrope AND Astigmatism=yes THEN ContactLens=none
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 0.00%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 6: IF Age=young AND SpectaclePrescrip=hypermetrope AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 0.00%
+Precision (unclassified): 0.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 0.00%
+Recall (all): 0.00%
+Recall (unclassified): 0.00%
+Instances classified: 0
+
+RULE 7: IF SpectaclePrescrip=myope AND Astigmatism=yes AND TearProdRate=normal THEN ContactLens=hard
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 12.50%
+Coverage (unclassified): 12.50%
+Recall (all): 100.00%
+Recall (unclassified): 100.00%
+Instances classified: 1
+
+Accuracy: 66.67%
+Instances not classified: 62.50%
+Time: 0.015622854232788086
+Number of rules: 0
+Rules seen: 0

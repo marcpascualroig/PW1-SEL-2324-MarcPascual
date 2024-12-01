@@ -1,0 +1,1904 @@
+RULE 1: IF Area_buckets=(123617.5, 157974.0] THEN Class=BOMBAY
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.21%
+Coverage (unclassified): 1.21%
+Recall (all): 29.31%
+Recall (unclassified): 29.31%
+Instances classified: 34
+
+RULE 2: IF Area_buckets=(157974.0, 192330.5] THEN Class=BOMBAY
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.11%
+Coverage (unclassified): 2.11%
+Recall (all): 50.86%
+Recall (unclassified): 50.86%
+Instances classified: 59
+
+RULE 3: IF Area_buckets=(192330.5, 226687.0] THEN Class=BOMBAY
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.82%
+Coverage (unclassified): 0.82%
+Recall (all): 19.83%
+Recall (unclassified): 19.83%
+Instances classified: 23
+
+RULE 4: IF AspectRation_buckets=(2.198, 2.43] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.07%
+Coverage (unclassified): 1.07%
+Recall (all): 7.28%
+Recall (unclassified): 7.28%
+Instances classified: 30
+
+RULE 5: IF Eccentricity_buckets=(0.262, 0.371] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.32%
+Recall (all): 2.21%
+Recall (unclassified): 2.21%
+Instances classified: 9
+
+RULE 6: IF Eccentricity_buckets=(0.371, 0.479] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.86%
+Coverage (unclassified): 0.86%
+Recall (all): 5.90%
+Recall (unclassified): 5.90%
+Instances classified: 24
+
+RULE 7: IF Extent_buckets=(0.566, 0.614] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.75%
+Coverage (unclassified): 1.50%
+Recall (all): 11.89%
+Recall (unclassified): 10.19%
+Instances classified: 42
+
+RULE 8: IF Solidity_buckets=(0.947, 0.955] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.14%
+Recall (all): 1.21%
+Recall (unclassified): 0.97%
+Instances classified: 4
+
+RULE 9: IF Compactness_buckets=(0.64, 0.697] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 6.54%
+Coverage (unclassified): 4.11%
+Recall (all): 44.42%
+Recall (unclassified): 27.91%
+Instances classified: 115
+
+RULE 10: IF Compactness_buckets=(0.925, 0.982] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.11%
+Coverage (unclassified): 0.93%
+Recall (all): 14.50%
+Recall (unclassified): 6.39%
+Instances classified: 26
+
+RULE 11: IF ShapeFactor1_buckets=(0.00919, 0.0105] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.29%
+Recall (all): 1.10%
+Recall (unclassified): 1.10%
+Instances classified: 8
+
+RULE 12: IF ShapeFactor4_buckets=(0.964, 0.971] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.21%
+Recall (all): 1.70%
+Recall (unclassified): 1.46%
+Instances classified: 6
+
+RULE 13: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.966, 2.198] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.54%
+Coverage (unclassified): 1.36%
+Recall (all): 24.03%
+Recall (unclassified): 9.22%
+Instances classified: 38
+
+RULE 14: IF Area_buckets=(54904.5, 89261.0] AND Eccentricity_buckets=(0.479, 0.587] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.11%
+Recall (all): 1.09%
+Recall (unclassified): 1.09%
+Instances classified: 3
+
+RULE 15: IF Area_buckets=(54904.5, 89261.0] AND ConvexArea_buckets=(91050.0, 126162.5] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.36%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 16: IF Area_buckets=(54904.5, 89261.0] AND roundness_buckets=(0.921, 0.991] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.49%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 17: IF Area_buckets=(54904.5, 89261.0] AND roundness_buckets=(0.571, 0.642] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.72%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 18: IF Area_buckets=(54904.5, 89261.0] AND ShapeFactor1_buckets=(0.00665, 0.00792] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.43%
+Coverage (unclassified): 0.04%
+Recall (all): 16.50%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 19: IF Area_buckets=(54904.5, 89261.0] AND ShapeFactor2_buckets=(0.00207, 0.00257] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 20: IF Area_buckets=(54904.5, 89261.0] AND ShapeFactor3_buckets=(0.41, 0.503] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.79%
+Coverage (unclassified): 0.04%
+Recall (all): 25.73%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 21: IF Area_buckets=(20341.861, 54904.5] AND MajorAxisLength_buckets=(362.875, 452.33] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.61%
+Coverage (unclassified): 0.89%
+Recall (all): 24.51%
+Recall (unclassified): 6.07%
+Instances classified: 25
+
+RULE 22: IF Area_buckets=(20341.861, 54904.5] AND MinorAxisLength_buckets=(231.455, 285.926] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 23: IF Area_buckets=(20341.861, 54904.5] AND AspectRation_buckets=(1.966, 2.198] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 5.04%
+Coverage (unclassified): 1.11%
+Recall (all): 34.22%
+Recall (unclassified): 7.52%
+Instances classified: 31
+
+RULE 24: IF Area_buckets=(20341.861, 54904.5] AND Eccentricity_buckets=(0.479, 0.587] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 6.14%
+Coverage (unclassified): 5.21%
+Recall (all): 42.26%
+Recall (unclassified): 35.87%
+Instances classified: 146
+
+RULE 25: IF Area_buckets=(20341.861, 54904.5] AND ShapeFactor3_buckets=(0.41, 0.503] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 5.46%
+Coverage (unclassified): 0.04%
+Recall (all): 37.14%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 26: IF Area_buckets=(20341.861, 54904.5] AND ShapeFactor4_buckets=(0.971, 0.978] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.07%
+Recall (all): 0.97%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 27: IF Area_buckets=(89261.0, 123617.5] AND MinorAxisLength_buckets=(285.926, 340.397] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.11%
+Recall (all): 1.09%
+Recall (unclassified): 1.09%
+Instances classified: 3
+
+RULE 28: IF Area_buckets=(89261.0, 123617.5] AND AspectRation_buckets=(1.966, 2.198] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.62%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 29: IF Area_buckets=(89261.0, 123617.5] AND AspectRation_buckets=(1.269, 1.501] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.04%
+Recall (all): 1.45%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 30: IF Area_buckets=(89261.0, 123617.5] AND AspectRation_buckets=(1.733, 1.966] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.46%
+Coverage (unclassified): 0.46%
+Recall (all): 4.02%
+Recall (unclassified): 4.02%
+Instances classified: 13
+
+RULE 31: IF Area_buckets=(89261.0, 123617.5] AND Extent_buckets=(0.803, 0.851] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.18%
+Recall (all): 2.48%
+Recall (unclassified): 1.55%
+Instances classified: 5
+
+RULE 32: IF Area_buckets=(89261.0, 123617.5] AND roundness_buckets=(0.851, 0.921] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.39%
+Coverage (unclassified): 0.07%
+Recall (all): 3.41%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 33: IF Area_buckets=(89261.0, 123617.5] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.72%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 34: IF Area_buckets=(89261.0, 123617.5] AND roundness_buckets=(0.642, 0.711] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.36%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 35: IF Perimeter_buckets=(744.922, 965.109] AND roundness_buckets=(0.642, 0.711] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.37%
+Recall (unclassified): 0.37%
+Instances classified: 2
+
+RULE 36: IF Perimeter_buckets=(744.922, 965.109] AND ShapeFactor1_buckets=(0.00792, 0.00919] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.50%
+Coverage (unclassified): 0.11%
+Recall (all): 3.40%
+Recall (unclassified): 0.73%
+Instances classified: 3
+
+RULE 37: IF Perimeter_buckets=(744.922, 965.109] AND ShapeFactor2_buckets=(0.000561, 0.00107] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 5.89%
+Coverage (unclassified): 0.29%
+Recall (all): 40.05%
+Recall (unclassified): 1.94%
+Instances classified: 8
+
+RULE 38: IF Perimeter_buckets=(744.922, 965.109] AND ShapeFactor4_buckets=(0.971, 0.978] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.07%
+Recall (all): 1.46%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 39: IF Perimeter_buckets=(523.415, 744.922] AND Solidity_buckets=(0.962, 0.97] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 40: IF Perimeter_buckets=(965.109, 1185.296] AND AspectRation_buckets=(1.035, 1.269] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.04%
+Recall (all): 1.45%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 41: IF Perimeter_buckets=(965.109, 1185.296] AND Eccentricity_buckets=(0.587, 0.695] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.71%
+Coverage (unclassified): 0.68%
+Recall (all): 7.25%
+Recall (unclassified): 6.88%
+Instances classified: 19
+
+RULE 42: IF Perimeter_buckets=(965.109, 1185.296] AND ShapeFactor2_buckets=(0.00157, 0.00207] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.00%
+Coverage (unclassified): 0.25%
+Recall (all): 10.14%
+Recall (unclassified): 2.54%
+Instances classified: 7
+
+RULE 43: IF Perimeter_buckets=(965.109, 1185.296] AND ShapeFactor3_buckets=(0.687, 0.779] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.57%
+Coverage (unclassified): 0.68%
+Recall (all): 15.94%
+Recall (unclassified): 6.88%
+Instances classified: 19
+
+RULE 44: IF Perimeter_buckets=(1185.296, 1405.482] AND MajorAxisLength_buckets=(362.875, 452.33] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.54%
+Coverage (unclassified): 0.29%
+Recall (all): 5.43%
+Recall (unclassified): 2.90%
+Instances classified: 8
+
+RULE 45: IF MajorAxisLength_buckets=(183.429, 273.42] AND AspectRation_buckets=(1.733, 1.966] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.04%
+Recall (all): 0.55%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 46: IF MajorAxisLength_buckets=(183.429, 273.42] AND Extent_buckets=(0.614, 0.661] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 47: IF MajorAxisLength_buckets=(452.33, 541.785] AND AspectRation_buckets=(1.733, 1.966] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.61%
+Coverage (unclassified): 0.18%
+Recall (all): 5.26%
+Recall (unclassified): 1.55%
+Instances classified: 5
+
+RULE 48: IF MajorAxisLength_buckets=(452.33, 541.785] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.04%
+Recall (all): 1.55%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 49: IF MajorAxisLength_buckets=(273.42, 362.875] AND EquivDiameter_buckets=(286.912, 349.494] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.39%
+Coverage (unclassified): 0.50%
+Recall (all): 14.13%
+Recall (unclassified): 5.07%
+Instances classified: 14
+
+RULE 50: IF MajorAxisLength_buckets=(273.42, 362.875] AND Solidity_buckets=(0.955, 0.962] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.04%
+Recall (all): 0.73%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 51: IF MinorAxisLength_buckets=(176.984, 231.455] AND ShapeFactor4_buckets=(0.971, 0.978] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.36%
+Coverage (unclassified): 0.07%
+Recall (all): 2.43%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 52: IF MinorAxisLength_buckets=(122.186, 176.984] AND ShapeFactor2_buckets=(0.00257, 0.00307] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.68%
+Coverage (unclassified): 1.68%
+Recall (all): 6.47%
+Recall (unclassified): 6.47%
+Instances classified: 47
+
+RULE 53: IF MinorAxisLength_buckets=(231.455, 285.926] AND Extent_buckets=(0.614, 0.661] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.72%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 54: IF MinorAxisLength_buckets=(231.455, 285.926] AND roundness_buckets=(0.642, 0.711] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.07%
+Recall (all): 3.26%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 55: IF MinorAxisLength_buckets=(231.455, 285.926] AND ShapeFactor4_buckets=(0.957, 0.964] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.31%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 56: IF AspectRation_buckets=(1.269, 1.501] AND ShapeFactor1_buckets=(0.00792, 0.00919] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.68%
+Coverage (unclassified): 3.50%
+Recall (all): 18.04%
+Recall (unclassified): 13.50%
+Instances classified: 98
+
+RULE 57: IF AspectRation_buckets=(1.501, 1.733] AND ShapeFactor2_buckets=(0.00207, 0.00257] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.04%
+Coverage (unclassified): 2.89%
+Recall (all): 11.71%
+Recall (unclassified): 11.16%
+Instances classified: 81
+
+RULE 58: IF AspectRation_buckets=(1.733, 1.966] AND ShapeFactor2_buckets=(0.00157, 0.00207] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.04%
+Recall (all): 0.69%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 59: IF Eccentricity_buckets=(0.587, 0.695] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 60: IF EquivDiameter_buckets=(224.33, 286.912] AND ShapeFactor2_buckets=(0.000561, 0.00107] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 8.25%
+Coverage (unclassified): 0.46%
+Recall (all): 56.07%
+Recall (unclassified): 3.16%
+Instances classified: 13
+
+RULE 61: IF EquivDiameter_buckets=(286.912, 349.494] AND roundness_buckets=(0.642, 0.711] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.39%
+Coverage (unclassified): 0.07%
+Recall (all): 3.99%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 62: IF EquivDiameter_buckets=(349.494, 412.076] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.04%
+Recall (all): 0.93%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 63: IF Extent_buckets=(0.661, 0.709] AND roundness_buckets=(0.921, 0.991] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.21%
+Recall (all): 1.10%
+Recall (unclassified): 0.83%
+Instances classified: 6
+
+RULE 64: IF Extent_buckets=(0.661, 0.709] AND ShapeFactor4_buckets=(0.971, 0.978] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.31%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 65: IF roundness_buckets=(0.781, 0.851] AND ShapeFactor2_buckets=(0.00257, 0.00307] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 66: IF roundness_buckets=(0.921, 0.991] AND Compactness_buckets=(0.754, 0.811] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.28%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 67: IF roundness_buckets=(0.642, 0.711] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.04%
+Recall (all): 1.81%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 68: IF ShapeFactor1_buckets=(0.00539, 0.00665] AND ShapeFactor2_buckets=(0.00257, 0.00307] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.46%
+Coverage (unclassified): 0.21%
+Recall (all): 30.71%
+Recall (unclassified): 1.47%
+Instances classified: 6
+
+RULE 69: IF ShapeFactor1_buckets=(0.00792, 0.00919] AND ShapeFactor2_buckets=(0.00107, 0.00157] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.50%
+Coverage (unclassified): 0.07%
+Recall (all): 3.40%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 70: IF ShapeFactor1_buckets=(0.00792, 0.00919] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 71: IF Area_buckets=(54904.5, 89261.0] AND Perimeter_buckets=(744.922, 965.109] AND Compactness_buckets=(0.868, 0.925] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.07%
+Recall (all): 0.98%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 72: IF Area_buckets=(54904.5, 89261.0] AND MajorAxisLength_buckets=(273.42, 362.875] AND Solidity_buckets=(0.962, 0.97] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.04%
+Recall (all): 1.09%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 73: IF Area_buckets=(54904.5, 89261.0] AND MajorAxisLength_buckets=(273.42, 362.875] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.21%
+Recall (all): 4.35%
+Recall (unclassified): 2.17%
+Instances classified: 6
+
+RULE 74: IF Area_buckets=(54904.5, 89261.0] AND MajorAxisLength_buckets=(273.42, 362.875] AND Compactness_buckets=(0.697, 0.754] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.04%
+Recall (all): 0.97%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 75: IF Area_buckets=(54904.5, 89261.0] AND MajorAxisLength_buckets=(273.42, 362.875] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.36%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 76: IF Area_buckets=(54904.5, 89261.0] AND MinorAxisLength_buckets=(176.984, 231.455] AND Eccentricity_buckets=(0.587, 0.695] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.72%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 77: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.269, 1.501] AND ConvexArea_buckets=(20614.325, 55937.5] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.36%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 78: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.269, 1.501] AND Extent_buckets=(0.803, 0.851] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.04%
+Recall (all): 2.54%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 79: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.269, 1.501] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.39%
+Coverage (unclassified): 0.07%
+Recall (all): 3.99%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 80: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.501, 1.733] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.25%
+Coverage (unclassified): 0.96%
+Recall (all): 12.68%
+Recall (unclassified): 9.78%
+Instances classified: 27
+
+RULE 81: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.501, 1.733] AND roundness_buckets=(0.642, 0.711] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.07%
+Recall (all): 2.90%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 82: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.501, 1.733] AND Compactness_buckets=(0.697, 0.754] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.62%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 83: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.501, 1.733] AND ShapeFactor2_buckets=(0.000561, 0.00107] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.18%
+Recall (all): 1.86%
+Recall (unclassified): 1.55%
+Instances classified: 5
+
+RULE 84: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.501, 1.733] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.64%
+Coverage (unclassified): 0.50%
+Recall (all): 5.57%
+Recall (unclassified): 4.33%
+Instances classified: 14
+
+RULE 85: IF Area_buckets=(54904.5, 89261.0] AND AspectRation_buckets=(1.733, 1.966] AND roundness_buckets=(0.851, 0.921] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.07%
+Coverage (unclassified): 1.07%
+Recall (all): 9.29%
+Recall (unclassified): 9.29%
+Instances classified: 30
+
+RULE 86: IF Area_buckets=(54904.5, 89261.0] AND Eccentricity_buckets=(0.587, 0.695] AND Compactness_buckets=(0.811, 0.868] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.71%
+Coverage (unclassified): 0.14%
+Recall (all): 7.25%
+Recall (unclassified): 1.45%
+Instances classified: 4
+
+RULE 87: IF Area_buckets=(54904.5, 89261.0] AND ConvexArea_buckets=(20614.325, 55937.5] AND roundness_buckets=(0.781, 0.851] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.04%
+Recall (all): 1.46%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 88: IF Area_buckets=(54904.5, 89261.0] AND Extent_buckets=(0.614, 0.661] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 89: IF Area_buckets=(54904.5, 89261.0] AND Solidity_buckets=(0.978, 0.986] AND Compactness_buckets=(0.811, 0.868] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.43%
+Coverage (unclassified): 0.86%
+Recall (all): 24.64%
+Recall (unclassified): 8.70%
+Instances classified: 24
+
+RULE 90: IF Area_buckets=(54904.5, 89261.0] AND Solidity_buckets=(0.97, 0.978] AND roundness_buckets=(0.851, 0.921] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.18%
+Recall (all): 2.48%
+Recall (unclassified): 1.55%
+Instances classified: 5
+
+RULE 91: IF Area_buckets=(54904.5, 89261.0] AND Solidity_buckets=(0.962, 0.97] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.07%
+Recall (all): 1.24%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 92: IF Area_buckets=(54904.5, 89261.0] AND roundness_buckets=(0.781, 0.851] AND Compactness_buckets=(0.811, 0.868] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 2.18%
+Coverage (unclassified): 0.18%
+Recall (all): 22.10%
+Recall (unclassified): 1.81%
+Instances classified: 5
+
+RULE 93: IF Area_buckets=(54904.5, 89261.0] AND roundness_buckets=(0.711, 0.781] AND Compactness_buckets=(0.754, 0.811] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.32%
+Coverage (unclassified): 0.07%
+Recall (all): 13.41%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 94: IF Area_buckets=(54904.5, 89261.0] AND Compactness_buckets=(0.754, 0.811] AND ShapeFactor2_buckets=(0.000561, 0.00107] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.04%
+Recall (all): 2.17%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 95: IF Area_buckets=(20341.861, 54904.5] AND Perimeter_buckets=(965.109, 1185.296] AND MinorAxisLength_buckets=(176.984, 231.455] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.72%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 96: IF Area_buckets=(20341.861, 54904.5] AND AspectRation_buckets=(1.269, 1.501] AND Solidity_buckets=(0.962, 0.97] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.25%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 97: IF Area_buckets=(20341.861, 54904.5] AND AspectRation_buckets=(1.269, 1.501] AND roundness_buckets=(0.711, 0.781] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 98: IF Area_buckets=(20341.861, 54904.5] AND AspectRation_buckets=(1.733, 1.966] AND roundness_buckets=(0.711, 0.781] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.11%
+Recall (all): 1.21%
+Recall (unclassified): 0.73%
+Instances classified: 3
+
+RULE 99: IF Area_buckets=(20341.861, 54904.5] AND AspectRation_buckets=(1.733, 1.966] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 100: IF Area_buckets=(20341.861, 54904.5] AND Eccentricity_buckets=(0.695, 0.803] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 101: IF Area_buckets=(20341.861, 54904.5] AND Extent_buckets=(0.803, 0.851] AND roundness_buckets=(0.781, 0.851] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.07%
+Coverage (unclassified): 0.29%
+Recall (all): 7.28%
+Recall (unclassified): 1.94%
+Instances classified: 8
+
+RULE 102: IF Area_buckets=(20341.861, 54904.5] AND Extent_buckets=(0.614, 0.661] AND ShapeFactor1_buckets=(0.00539, 0.00665] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.24%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 103: IF Area_buckets=(89261.0, 123617.5] AND MajorAxisLength_buckets=(362.875, 452.33] AND roundness_buckets=(0.781, 0.851] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.07%
+Recall (all): 2.17%
+Recall (unclassified): 0.72%
+Instances classified: 2
+
+RULE 104: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(362.875, 452.33] AND MinorAxisLength_buckets=(231.455, 285.926] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.31%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 105: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(362.875, 452.33] AND AspectRation_buckets=(1.501, 1.733] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.25%
+Recall (all): 2.48%
+Recall (unclassified): 2.17%
+Instances classified: 7
+
+RULE 106: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(362.875, 452.33] AND roundness_buckets=(0.711, 0.781] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.43%
+Coverage (unclassified): 0.04%
+Recall (all): 9.71%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 107: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(362.875, 452.33] AND Compactness_buckets=(0.754, 0.811] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.04%
+Recall (all): 2.79%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 108: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(183.429, 273.42] AND AspectRation_buckets=(1.501, 1.733] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 109: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(183.429, 273.42] AND Extent_buckets=(0.803, 0.851] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.25%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 110: IF Perimeter_buckets=(744.922, 965.109] AND MajorAxisLength_buckets=(183.429, 273.42] AND Solidity_buckets=(0.97, 0.978] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.36%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 111: IF Perimeter_buckets=(744.922, 965.109] AND MinorAxisLength_buckets=(122.186, 176.984] AND Extent_buckets=(0.614, 0.661] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.89%
+Coverage (unclassified): 0.11%
+Recall (all): 6.07%
+Recall (unclassified): 0.73%
+Instances classified: 3
+
+RULE 112: IF Perimeter_buckets=(744.922, 965.109] AND MinorAxisLength_buckets=(231.455, 285.926] AND AspectRation_buckets=(1.501, 1.733] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.62%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 113: IF Perimeter_buckets=(744.922, 965.109] AND AspectRation_buckets=(1.269, 1.501] AND ShapeFactor3_buckets=(0.779, 0.871] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.46%
+Coverage (unclassified): 0.36%
+Recall (all): 3.19%
+Recall (unclassified): 2.46%
+Instances classified: 10
+
+RULE 114: IF Perimeter_buckets=(744.922, 965.109] AND AspectRation_buckets=(1.035, 1.269] AND EquivDiameter_buckets=(161.373, 224.33] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.25%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 115: IF Perimeter_buckets=(744.922, 965.109] AND AspectRation_buckets=(1.035, 1.269] AND roundness_buckets=(0.851, 0.921] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.04%
+Recall (all): 2.21%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 116: IF Perimeter_buckets=(744.922, 965.109] AND AspectRation_buckets=(1.501, 1.733] AND Extent_buckets=(0.614, 0.661] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.11%
+Recall (all): 0.56%
+Recall (unclassified): 0.56%
+Instances classified: 3
+
+RULE 117: IF Perimeter_buckets=(744.922, 965.109] AND Eccentricity_buckets=(0.587, 0.695] AND EquivDiameter_buckets=(161.373, 224.33] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 118: IF Perimeter_buckets=(744.922, 965.109] AND Eccentricity_buckets=(0.587, 0.695] AND Extent_buckets=(0.661, 0.709] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 119: IF Perimeter_buckets=(744.922, 965.109] AND Eccentricity_buckets=(0.695, 0.803] AND ShapeFactor2_buckets=(0.00207, 0.00257] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 120: IF Perimeter_buckets=(744.922, 965.109] AND EquivDiameter_buckets=(161.373, 224.33] AND Solidity_buckets=(0.97, 0.978] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 121: IF Perimeter_buckets=(744.922, 965.109] AND Extent_buckets=(0.803, 0.851] AND roundness_buckets=(0.921, 0.991] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.37%
+Recall (unclassified): 0.37%
+Instances classified: 2
+
+RULE 122: IF Perimeter_buckets=(744.922, 965.109] AND Extent_buckets=(0.614, 0.661] AND roundness_buckets=(0.851, 0.921] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 123: IF Perimeter_buckets=(523.415, 744.922] AND MajorAxisLength_buckets=(273.42, 362.875] AND Extent_buckets=(0.614, 0.661] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.24%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 124: IF Perimeter_buckets=(523.415, 744.922] AND MinorAxisLength_buckets=(122.186, 176.984] AND EquivDiameter_buckets=(224.33, 286.912] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 125: IF Perimeter_buckets=(523.415, 744.922] AND AspectRation_buckets=(1.035, 1.269] AND EquivDiameter_buckets=(224.33, 286.912] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.64%
+Coverage (unclassified): 0.43%
+Recall (all): 11.30%
+Recall (unclassified): 2.95%
+Instances classified: 12
+
+RULE 126: IF Perimeter_buckets=(523.415, 744.922] AND AspectRation_buckets=(1.733, 1.966] AND Solidity_buckets=(0.986, 0.994] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.11%
+Recall (all): 0.83%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 127: IF Perimeter_buckets=(523.415, 744.922] AND Eccentricity_buckets=(0.695, 0.803] AND Solidity_buckets=(0.97, 0.978] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.07%
+Recall (all): 0.41%
+Recall (unclassified): 0.28%
+Instances classified: 2
+
+RULE 128: IF Perimeter_buckets=(523.415, 744.922] AND EquivDiameter_buckets=(224.33, 286.912] AND Extent_buckets=(0.661, 0.709] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.07%
+Recall (all): 0.28%
+Recall (unclassified): 0.28%
+Instances classified: 2
+
+RULE 129: IF Perimeter_buckets=(523.415, 744.922] AND EquivDiameter_buckets=(224.33, 286.912] AND Compactness_buckets=(0.868, 0.925] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.89%
+Coverage (unclassified): 0.64%
+Recall (all): 13.02%
+Recall (unclassified): 4.42%
+Instances classified: 18
+
+RULE 130: IF Perimeter_buckets=(523.415, 744.922] AND EquivDiameter_buckets=(224.33, 286.912] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 131: IF Perimeter_buckets=(523.415, 744.922] AND Extent_buckets=(0.756, 0.803] AND ShapeFactor1_buckets=(0.00792, 0.00919] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.21%
+Coverage (unclassified): 0.82%
+Recall (all): 12.40%
+Recall (unclassified): 3.17%
+Instances classified: 23
+
+RULE 132: IF Perimeter_buckets=(523.415, 744.922] AND Extent_buckets=(0.661, 0.709] AND ShapeFactor2_buckets=(0.00207, 0.00257] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.32%
+Coverage (unclassified): 0.11%
+Recall (all): 5.10%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 133: IF Perimeter_buckets=(523.415, 744.922] AND Solidity_buckets=(0.978, 0.986] AND ShapeFactor1_buckets=(0.00539, 0.00665] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.07%
+Recall (all): 1.23%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 134: IF Perimeter_buckets=(523.415, 744.922] AND roundness_buckets=(0.781, 0.851] AND Compactness_buckets=(0.811, 0.868] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 135: IF Perimeter_buckets=(965.109, 1185.296] AND MajorAxisLength_buckets=(273.42, 362.875] AND AspectRation_buckets=(1.501, 1.733] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.86%
+Coverage (unclassified): 0.39%
+Recall (all): 8.70%
+Recall (unclassified): 3.99%
+Instances classified: 11
+
+RULE 136: IF Perimeter_buckets=(965.109, 1185.296] AND MinorAxisLength_buckets=(176.984, 231.455] AND Extent_buckets=(0.614, 0.661] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.04%
+Coverage (unclassified): 0.07%
+Recall (all): 7.04%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 137: IF Perimeter_buckets=(965.109, 1185.296] AND Extent_buckets=(0.709, 0.756] AND ShapeFactor4_buckets=(0.971, 0.978] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.31%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 138: IF MajorAxisLength_buckets=(362.875, 452.33] AND EquivDiameter_buckets=(224.33, 286.912] AND roundness_buckets=(0.851, 0.921] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.04%
+Recall (all): 1.24%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 139: IF MajorAxisLength_buckets=(362.875, 452.33] AND Extent_buckets=(0.709, 0.756] AND Solidity_buckets=(0.962, 0.97] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.04%
+Recall (all): 0.93%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 140: IF MajorAxisLength_buckets=(183.429, 273.42] AND AspectRation_buckets=(1.035, 1.269] AND roundness_buckets=(0.781, 0.851] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 141: IF MajorAxisLength_buckets=(183.429, 273.42] AND Eccentricity_buckets=(0.803, 0.911] AND Extent_buckets=(0.709, 0.756] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.11%
+Recall (all): 0.55%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 142: IF MajorAxisLength_buckets=(183.429, 273.42] AND Eccentricity_buckets=(0.803, 0.911] AND Solidity_buckets=(0.986, 0.994] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.11%
+Recall (all): 1.24%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 143: IF MajorAxisLength_buckets=(183.429, 273.42] AND Eccentricity_buckets=(0.695, 0.803] AND ShapeFactor1_buckets=(0.00539, 0.00665] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.11%
+Recall (all): 0.55%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 144: IF MajorAxisLength_buckets=(183.429, 273.42] AND Extent_buckets=(0.709, 0.756] AND ShapeFactor1_buckets=(0.00792, 0.00919] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 3.93%
+Coverage (unclassified): 0.61%
+Recall (all): 15.15%
+Recall (unclassified): 2.34%
+Instances classified: 17
+
+RULE 145: IF MajorAxisLength_buckets=(183.429, 273.42] AND Extent_buckets=(0.661, 0.709] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.14%
+Recall (all): 0.83%
+Recall (unclassified): 0.55%
+Instances classified: 4
+
+RULE 146: IF MajorAxisLength_buckets=(183.429, 273.42] AND Solidity_buckets=(0.978, 0.986] AND ShapeFactor1_buckets=(0.00792, 0.00919] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.79%
+Coverage (unclassified): 0.11%
+Recall (all): 6.89%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 147: IF MajorAxisLength_buckets=(183.429, 273.42] AND roundness_buckets=(0.781, 0.851] AND ShapeFactor3_buckets=(0.595, 0.687] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.11%
+Recall (all): 0.83%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 148: IF MajorAxisLength_buckets=(273.42, 362.875] AND AspectRation_buckets=(1.269, 1.501] AND EquivDiameter_buckets=(161.373, 224.33] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 149: IF MajorAxisLength_buckets=(273.42, 362.875] AND AspectRation_buckets=(1.035, 1.269] AND Extent_buckets=(0.709, 0.756] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.04%
+Recall (all): 0.74%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 150: IF MajorAxisLength_buckets=(273.42, 362.875] AND AspectRation_buckets=(1.035, 1.269] AND Solidity_buckets=(0.986, 0.994] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.07%
+Recall (all): 1.23%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 151: IF MajorAxisLength_buckets=(273.42, 362.875] AND AspectRation_buckets=(1.035, 1.269] AND roundness_buckets=(0.781, 0.851] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.04%
+Recall (all): 1.45%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 152: IF MajorAxisLength_buckets=(273.42, 362.875] AND EquivDiameter_buckets=(161.373, 224.33] AND Compactness_buckets=(0.811, 0.868] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.07%
+Recall (all): 0.56%
+Recall (unclassified): 0.37%
+Instances classified: 2
+
+RULE 153: IF MajorAxisLength_buckets=(273.42, 362.875] AND roundness_buckets=(0.921, 0.991] AND Compactness_buckets=(0.868, 0.925] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.54%
+Coverage (unclassified): 0.29%
+Recall (all): 3.69%
+Recall (unclassified): 1.97%
+Instances classified: 8
+
+RULE 154: IF MajorAxisLength_buckets=(273.42, 362.875] AND roundness_buckets=(0.921, 0.991] AND ShapeFactor2_buckets=(0.00207, 0.00257] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.61%
+Coverage (unclassified): 0.11%
+Recall (all): 4.18%
+Recall (unclassified): 0.74%
+Instances classified: 3
+
+RULE 155: IF MajorAxisLength_buckets=(273.42, 362.875] AND Compactness_buckets=(0.811, 0.868] AND ShapeFactor2_buckets=(0.00207, 0.00257] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.11%
+Recall (all): 1.47%
+Recall (unclassified): 0.74%
+Instances classified: 3
+
+RULE 156: IF MajorAxisLength_buckets=(273.42, 362.875] AND ShapeFactor1_buckets=(0.00665, 0.00792] AND ShapeFactor3_buckets=(0.687, 0.779] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 157: IF MinorAxisLength_buckets=(176.984, 231.455] AND AspectRation_buckets=(1.035, 1.269] AND ShapeFactor1_buckets=(0.00665, 0.00792] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.50%
+Coverage (unclassified): 0.39%
+Recall (all): 10.32%
+Recall (unclassified): 2.70%
+Instances classified: 11
+
+RULE 158: IF MinorAxisLength_buckets=(176.984, 231.455] AND AspectRation_buckets=(1.501, 1.733] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.11%
+Recall (all): 4.35%
+Recall (unclassified): 1.09%
+Instances classified: 3
+
+RULE 159: IF MinorAxisLength_buckets=(176.984, 231.455] AND Extent_buckets=(0.803, 0.851] AND ShapeFactor2_buckets=(0.000561, 0.00107] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.93%
+Coverage (unclassified): 0.04%
+Recall (all): 6.31%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 160: IF MinorAxisLength_buckets=(176.984, 231.455] AND Extent_buckets=(0.709, 0.756] AND ShapeFactor2_buckets=(0.00257, 0.00307] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.68%
+Coverage (unclassified): 0.07%
+Recall (all): 4.67%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 161: IF MinorAxisLength_buckets=(176.984, 231.455] AND roundness_buckets=(0.851, 0.921] AND ShapeFactor2_buckets=(0.00257, 0.00307] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.04%
+Recall (all): 1.97%
+Recall (unclassified): 0.25%
+Instances classified: 1
+
+RULE 162: IF MinorAxisLength_buckets=(176.984, 231.455] AND ShapeFactor2_buckets=(0.00207, 0.00257] AND ShapeFactor3_buckets=(0.595, 0.687] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 163: IF MinorAxisLength_buckets=(122.186, 176.984] AND AspectRation_buckets=(1.269, 1.501] AND Extent_buckets=(0.803, 0.851] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.96%
+Coverage (unclassified): 0.46%
+Recall (all): 3.72%
+Recall (unclassified): 1.79%
+Instances classified: 13
+
+RULE 164: IF MinorAxisLength_buckets=(122.186, 176.984] AND AspectRation_buckets=(1.269, 1.501] AND Extent_buckets=(0.709, 0.756] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 4.71%
+Coverage (unclassified): 2.04%
+Recall (all): 18.18%
+Recall (unclassified): 7.85%
+Instances classified: 57
+
+RULE 165: IF MinorAxisLength_buckets=(122.186, 176.984] AND AspectRation_buckets=(1.269, 1.501] AND Extent_buckets=(0.661, 0.709] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.64%
+Coverage (unclassified): 0.11%
+Recall (all): 2.48%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 166: IF MinorAxisLength_buckets=(122.186, 176.984] AND AspectRation_buckets=(1.269, 1.501] AND ShapeFactor2_buckets=(0.00157, 0.00207] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.18%
+Recall (all): 1.65%
+Recall (unclassified): 0.69%
+Instances classified: 5
+
+RULE 167: IF MinorAxisLength_buckets=(122.186, 176.984] AND AspectRation_buckets=(1.501, 1.733] AND roundness_buckets=(0.921, 0.991] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.39%
+Coverage (unclassified): 0.11%
+Recall (all): 1.52%
+Recall (unclassified): 0.41%
+Instances classified: 3
+
+RULE 168: IF MinorAxisLength_buckets=(122.186, 176.984] AND AspectRation_buckets=(1.501, 1.733] AND ShapeFactor2_buckets=(0.00107, 0.00157] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 169: IF MinorAxisLength_buckets=(122.186, 176.984] AND Eccentricity_buckets=(0.587, 0.695] AND Solidity_buckets=(0.978, 0.986] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.36%
+Coverage (unclassified): 0.04%
+Recall (all): 1.38%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 170: IF MinorAxisLength_buckets=(122.186, 176.984] AND Eccentricity_buckets=(0.587, 0.695] AND roundness_buckets=(0.851, 0.921] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.68%
+Coverage (unclassified): 0.04%
+Recall (all): 2.62%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 171: IF MinorAxisLength_buckets=(122.186, 176.984] AND EquivDiameter_buckets=(224.33, 286.912] AND Solidity_buckets=(0.978, 0.986] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.46%
+Coverage (unclassified): 0.14%
+Recall (all): 9.95%
+Recall (unclassified): 0.97%
+Instances classified: 4
+
+RULE 172: IF MinorAxisLength_buckets=(122.186, 176.984] AND EquivDiameter_buckets=(224.33, 286.912] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.07%
+Coverage (unclassified): 0.04%
+Recall (all): 7.28%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 173: IF MinorAxisLength_buckets=(122.186, 176.984] AND Extent_buckets=(0.709, 0.756] AND Compactness_buckets=(0.811, 0.868] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 5.00%
+Coverage (unclassified): 0.14%
+Recall (all): 19.28%
+Recall (unclassified): 0.55%
+Instances classified: 4
+
+RULE 174: IF MinorAxisLength_buckets=(122.186, 176.984] AND Extent_buckets=(0.661, 0.709] AND Compactness_buckets=(0.811, 0.868] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.93%
+Coverage (unclassified): 0.04%
+Recall (all): 3.58%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 175: IF MinorAxisLength_buckets=(122.186, 176.984] AND roundness_buckets=(0.921, 0.991] AND ShapeFactor3_buckets=(0.595, 0.687] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.68%
+Coverage (unclassified): 0.36%
+Recall (all): 6.47%
+Recall (unclassified): 1.38%
+Instances classified: 10
+
+RULE 176: IF MinorAxisLength_buckets=(231.455, 285.926] AND AspectRation_buckets=(1.733, 1.966] AND Extent_buckets=(0.803, 0.851] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.14%
+Recall (all): 3.72%
+Recall (unclassified): 1.24%
+Instances classified: 4
+
+RULE 177: IF MinorAxisLength_buckets=(231.455, 285.926] AND AspectRation_buckets=(1.733, 1.966] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.25%
+Recall (all): 2.79%
+Recall (unclassified): 2.17%
+Instances classified: 7
+
+RULE 178: IF MinorAxisLength_buckets=(231.455, 285.926] AND Eccentricity_buckets=(0.803, 0.911] AND roundness_buckets=(0.851, 0.921] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.61%
+Coverage (unclassified): 0.39%
+Recall (all): 13.93%
+Recall (unclassified): 3.41%
+Instances classified: 11
+
+RULE 179: IF MinorAxisLength_buckets=(231.455, 285.926] AND Extent_buckets=(0.803, 0.851] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.39%
+Coverage (unclassified): 0.11%
+Recall (all): 3.41%
+Recall (unclassified): 0.93%
+Instances classified: 3
+
+RULE 180: IF MinorAxisLength_buckets=(231.455, 285.926] AND Extent_buckets=(0.709, 0.756] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.04%
+Recall (all): 4.35%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 181: IF MinorAxisLength_buckets=(231.455, 285.926] AND Extent_buckets=(0.661, 0.709] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.32%
+Coverage (unclassified): 0.04%
+Recall (all): 3.26%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 182: IF MinorAxisLength_buckets=(231.455, 285.926] AND roundness_buckets=(0.851, 0.921] AND ShapeFactor3_buckets=(0.503, 0.595] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.89%
+Coverage (unclassified): 0.11%
+Recall (all): 16.41%
+Recall (unclassified): 0.93%
+Instances classified: 3
+
+RULE 183: IF AspectRation_buckets=(1.269, 1.501] AND ShapeFactor1_buckets=(0.00539, 0.00665] AND ShapeFactor3_buckets=(0.779, 0.871] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.04%
+Coverage (unclassified): 0.32%
+Recall (all): 7.13%
+Recall (unclassified): 2.21%
+Instances classified: 9
+
+RULE 184: IF AspectRation_buckets=(1.269, 1.501] AND ShapeFactor2_buckets=(0.00207, 0.00257] AND ShapeFactor3_buckets=(0.779, 0.871] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.11%
+Coverage (unclassified): 0.11%
+Recall (all): 7.62%
+Recall (unclassified): 0.74%
+Instances classified: 3
+
+RULE 185: IF AspectRation_buckets=(1.035, 1.269] AND Extent_buckets=(0.756, 0.803] AND roundness_buckets=(0.921, 0.991] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 7.68%
+Coverage (unclassified): 0.57%
+Recall (all): 52.83%
+Recall (unclassified): 3.93%
+Instances classified: 16
+
+RULE 186: IF AspectRation_buckets=(1.501, 1.733] AND Extent_buckets=(0.756, 0.803] AND roundness_buckets=(0.921, 0.991] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.21%
+Coverage (unclassified): 0.04%
+Recall (all): 0.83%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 187: IF AspectRation_buckets=(1.501, 1.733] AND Compactness_buckets=(0.811, 0.868] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 188: IF AspectRation_buckets=(1.733, 1.966] AND EquivDiameter_buckets=(224.33, 286.912] AND Extent_buckets=(0.803, 0.851] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.04%
+Recall (all): 2.91%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 189: IF AspectRation_buckets=(1.733, 1.966] AND EquivDiameter_buckets=(224.33, 286.912] AND roundness_buckets=(0.711, 0.781] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.64%
+Coverage (unclassified): 0.11%
+Recall (all): 4.37%
+Recall (unclassified): 0.73%
+Instances classified: 3
+
+RULE 190: IF AspectRation_buckets=(1.733, 1.966] AND EquivDiameter_buckets=(161.373, 224.33] AND roundness_buckets=(0.851, 0.921] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.07%
+Recall (all): 0.96%
+Recall (unclassified): 0.28%
+Instances classified: 2
+
+RULE 191: IF AspectRation_buckets=(1.733, 1.966] AND Extent_buckets=(0.709, 0.756] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.72%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 192: IF AspectRation_buckets=(1.733, 1.966] AND Extent_buckets=(0.709, 0.756] AND ShapeFactor1_buckets=(0.00412, 0.00539] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.07%
+Recall (all): 2.48%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 193: IF AspectRation_buckets=(1.733, 1.966] AND Extent_buckets=(0.756, 0.803] AND ShapeFactor1_buckets=(0.00412, 0.00539] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.82%
+Coverage (unclassified): 0.32%
+Recall (all): 7.12%
+Recall (unclassified): 2.79%
+Instances classified: 9
+
+RULE 194: IF AspectRation_buckets=(1.733, 1.966] AND Solidity_buckets=(0.986, 0.994] AND ShapeFactor1_buckets=(0.00412, 0.00539] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.21%
+Coverage (unclassified): 0.04%
+Recall (all): 10.53%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 195: IF AspectRation_buckets=(1.733, 1.966] AND Solidity_buckets=(0.97, 0.978] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.18%
+Coverage (unclassified): 0.14%
+Recall (all): 1.55%
+Recall (unclassified): 1.24%
+Instances classified: 4
+
+RULE 196: IF AspectRation_buckets=(1.733, 1.966] AND roundness_buckets=(0.781, 0.851] AND ShapeFactor1_buckets=(0.00412, 0.00539] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.25%
+Coverage (unclassified): 0.14%
+Recall (all): 10.84%
+Recall (unclassified): 1.24%
+Instances classified: 4
+
+RULE 197: IF Eccentricity_buckets=(0.803, 0.911] AND ShapeFactor1_buckets=(0.00412, 0.00539] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.43%
+Coverage (unclassified): 0.04%
+Recall (all): 12.38%
+Recall (unclassified): 0.31%
+Instances classified: 1
+
+RULE 198: IF Eccentricity_buckets=(0.587, 0.695] AND EquivDiameter_buckets=(224.33, 286.912] AND ShapeFactor1_buckets=(0.00665, 0.00792] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.14%
+Recall (unclassified): 0.14%
+Instances classified: 1
+
+RULE 199: IF Eccentricity_buckets=(0.695, 0.803] AND Extent_buckets=(0.661, 0.709] AND ShapeFactor1_buckets=(0.00792, 0.00919] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.39%
+Coverage (unclassified): 0.25%
+Recall (all): 5.37%
+Recall (unclassified): 0.96%
+Instances classified: 7
+
+RULE 200: IF EquivDiameter_buckets=(161.373, 224.33] AND Extent_buckets=(0.756, 0.803] AND ShapeFactor2_buckets=(0.00107, 0.00157] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.07%
+Coverage (unclassified): 0.04%
+Recall (all): 0.49%
+Recall (unclassified): 0.24%
+Instances classified: 1
+
+RULE 201: IF EquivDiameter_buckets=(161.373, 224.33] AND Compactness_buckets=(0.811, 0.868] AND ShapeFactor1_buckets=(0.00539, 0.00665] THEN Class=SEKER
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.14%
+Coverage (unclassified): 0.07%
+Recall (all): 0.98%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 202: IF EquivDiameter_buckets=(286.912, 349.494] AND Extent_buckets=(0.661, 0.709] AND roundness_buckets=(0.711, 0.781] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.04%
+Recall (all): 4.35%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 203: IF EquivDiameter_buckets=(286.912, 349.494] AND Extent_buckets=(0.661, 0.709] AND ShapeFactor4_buckets=(0.978, 0.986] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.29%
+Coverage (unclassified): 0.07%
+Recall (all): 2.48%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 204: IF Extent_buckets=(0.803, 0.851] AND Solidity_buckets=(0.978, 0.986] AND roundness_buckets=(0.921, 0.991] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.04%
+Coverage (unclassified): 0.04%
+Recall (all): 0.19%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 205: IF Extent_buckets=(0.614, 0.661] AND Solidity_buckets=(0.978, 0.986] AND ShapeFactor1_buckets=(0.00539, 0.00665] THEN Class=HOROZ
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.43%
+Coverage (unclassified): 0.07%
+Recall (all): 2.91%
+Recall (unclassified): 0.49%
+Instances classified: 2
+
+RULE 206: IF Solidity_buckets=(0.986, 0.994] AND ShapeFactor2_buckets=(0.00207, 0.00257] AND ShapeFactor3_buckets=(0.595, 0.687] THEN Class=DERMASON
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 5.36%
+Coverage (unclassified): 0.36%
+Recall (all): 20.66%
+Recall (unclassified): 1.38%
+Instances classified: 10
+
+RULE 207: IF Solidity_buckets=(0.97, 0.978] AND ShapeFactor1_buckets=(0.00539, 0.00665] AND ShapeFactor4_buckets=(0.993, 1.0] THEN Class=BARBUNYA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.25%
+Coverage (unclassified): 0.04%
+Recall (all): 2.54%
+Recall (unclassified): 0.36%
+Instances classified: 1
+
+RULE 208: IF Solidity_buckets=(0.97, 0.978] AND ShapeFactor3_buckets=(0.503, 0.595] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.36%
+Coverage (unclassified): 0.07%
+Recall (all): 3.10%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+RULE 209: IF roundness_buckets=(0.921, 0.991] AND ShapeFactor1_buckets=(0.00539, 0.00665] AND ShapeFactor3_buckets=(0.595, 0.687] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.11%
+Coverage (unclassified): 0.04%
+Recall (all): 0.56%
+Recall (unclassified): 0.19%
+Instances classified: 1
+
+RULE 210: IF ShapeFactor1_buckets=(0.00665, 0.00792] AND ShapeFactor2_buckets=(0.00107, 0.00157] AND ShapeFactor3_buckets=(0.595, 0.687] THEN Class=SIRA
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 0.89%
+Coverage (unclassified): 0.89%
+Recall (all): 4.63%
+Recall (unclassified): 4.63%
+Instances classified: 25
+
+RULE 211: IF ShapeFactor1_buckets=(0.00412, 0.00539] AND ShapeFactor3_buckets=(0.503, 0.595] AND ShapeFactor4_buckets=(0.986, 0.993] THEN Class=CALI
+Precision (all): 100.00%
+Precision (unclassified): 100.00%
+Coverage (all): 1.61%
+Coverage (unclassified): 0.07%
+Recall (all): 13.93%
+Recall (unclassified): 0.62%
+Instances classified: 2
+
+Accuracy: 100.00%
+Instances not classified: 41.46%
+Time: 287.06728315353394
+Number of rules: 211
+Rules seen: 125376
